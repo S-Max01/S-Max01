@@ -1,4 +1,4 @@
-<h3 align="center">###** Hi there every one 👋**</h3>
+<h3 align="center">### Hi there every one 👋</h3>
 <div id="header" align="center" wight="650" hight="400">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
