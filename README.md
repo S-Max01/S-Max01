@@ -14,7 +14,7 @@
   </a>
    <img src="https://komarev.com/ghpvc/?username=S-Max01&style=flat-square&color=blue" alt=""/>
 </div>
-<p id="text-content" align="center">
+<p id="text-content" align="start">
 🌱 I’m currently learning web page <br>
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 </p>
