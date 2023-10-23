@@ -18,7 +18,7 @@
 🌱 I’m currently learning web page <br>
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 </p>
-<h3>### :hammer_and_wrench: Languages and Tools :</h3>
+<h3> :hammer_and_wrench: Languages and Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -26,8 +26,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
 </div>
-### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=S-Max01
+ :fire: My Stats :
+<div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S-Max01&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+
+
+
+
+
+
 <!--
 **S-Max01/S-Max01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
