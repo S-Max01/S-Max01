@@ -1,4 +1,4 @@
-<h3 align="center">### Hi there 👋</h3>
+<h3 align="center">### Hi there every one 👋</h3>
 <div id="header" align="center" wight="650" hight="400">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
@@ -9,7 +9,14 @@
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 
 </p>
-
+<div id="badges">
+  
+   <a href="[your-linkedin-URL](https://www.linkedin.com/in/peerawat-nomrawee-6993b9288/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+ 
+</div>
 
 
 <!--
