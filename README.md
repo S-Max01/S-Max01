@@ -9,13 +9,13 @@
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 
 </p>
-<div id="badges">
+<div id="badges" align-item="center">
   
-   <a href="[your-linkedin-URL](https://www.linkedin.com/in/peerawat-nomrawee-6993b9288/)">
+   <a href="(https://www.linkedin.com/in/peerawat-nomrawee-6993b9288/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCwc33YJ-wK7SY1xmztJj7Cw)">
+  <a href="(https://www.youtube.com/channel/UCwc33YJ-wK7SY1xmztJj7Cw)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
  
