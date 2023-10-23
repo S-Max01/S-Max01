@@ -15,7 +15,7 @@
 </div>
 <p id="text-content" align="center">
 
-🌱 I’m currently learning web page 
+🌱 I’m currently learning web page <br>
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 
 </p>
