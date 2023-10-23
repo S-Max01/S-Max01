@@ -17,6 +17,8 @@
 <p id="text-content" align="start">
 🌱 I’m currently learning web page <br>
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
+My name is Peerawat Nomrawee i was born 18 of April 1996. i'm 27 year old.
+i graduated with bachelor in liberal Art & Science majoring in Computer Science from Kasetsart University
 </p>
 <h3> :hammer_and_wrench: Languages and Tools :</h3>
 <div>
