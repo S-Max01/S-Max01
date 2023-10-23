@@ -1,14 +1,14 @@
 ### Hi there 👋
-<div id="header" align="center" wight="650" hight="500">
+<div id="header" align="center" wight="650" hight="400">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-
+<p id="text-content" align="center">
 
 🌱 I’m currently learning web page <br>
 📫 How to reach me<h3> E-mile: Peerawat_nomrawee@hotmail.com </h3>
 
-
+</p>
 
 
 
