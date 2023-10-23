@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/channel/UCwc33YJ-wK7SY1xmztJj7Cw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
- 
+   <img src="https://komarev.com/ghpvc/?username=S-Max01&style=flat-square&color=blue" alt=""/>
 </div>
 <p id="text-content" align="center">
 
