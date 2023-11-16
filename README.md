@@ -15,7 +15,7 @@
    <img src="https://komarev.com/ghpvc/?username=S-Max01&style=flat-square&color=blue" alt=""/>
 </div>
 <p id="text-content" align="start">
-My name is Peerawat Nomrawee i was born 18 of April 1996. i'm 27 year old.
+My name is Peerawat Nomrawee . i'm 27 year old.
 i graduated with bachelor in Liberal Art & Science majoring in Computer Science from Kasetsart University
    
 🌱 I’m currently learning web page <br>
